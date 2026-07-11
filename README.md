@@ -1,1 +1,1 @@
-# FacultyOfMedicineUM
+# FacultyOfNursingUM
